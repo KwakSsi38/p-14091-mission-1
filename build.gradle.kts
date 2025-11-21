@@ -6,7 +6,7 @@ plugins {
 
 group = "com.back"
 version = "0.0.1-SNAPSHOT"
-description = "p-14095-1"
+description = "p-14091-1"
 
 java {
     toolchain {
