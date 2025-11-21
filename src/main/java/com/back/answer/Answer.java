@@ -1,4 +1,4 @@
-package com.back;
+package com.back.answer;
 
 import jakarta.persistence.*;
 import lombok.Getter;
