@@ -2,7 +2,7 @@ package com.back;
 
 import com.back.answer.Answer;
 import com.back.answer.AnswerRepository;
-import com.back.answer.Question;
+import com.back.question.Question;
 import com.back.question.QuestionRepository;
 import jakarta.transaction.Transactional;
 import org.junit.jupiter.api.DisplayName;

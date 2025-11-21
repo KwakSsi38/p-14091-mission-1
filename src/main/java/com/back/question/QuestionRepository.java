@@ -1,6 +1,5 @@
 package com.back.question;
 
-import com.back.answer.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

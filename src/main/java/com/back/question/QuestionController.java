@@ -1,6 +1,5 @@
 package com.back.question;
 
-import com.back.answer.Question;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
