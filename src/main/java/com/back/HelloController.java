@@ -7,9 +7,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HelloController {
     @GetMapping("/")
-    @ResponseBody
-    public  String admin() {
-        return "Hello Admin!";
+    public  String root() {
+        return "redirect:/question/list";
     }
 
     @GetMapping("/hello")
